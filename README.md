@@ -1,4 +1,4 @@
-# JavaScript Objects
+accept# JavaScript Objects
 
 ## Overview
 
